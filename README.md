@@ -1,6 +1,6 @@
 # FAQ-PeGang
 Tempat untuk menanyakan dan konsultasi seputar aplikasi pegang
-
+- Klik tab Issues lalu klik tombol **New Issue**
 
 
 ## PeGang
