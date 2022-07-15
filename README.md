@@ -3,7 +3,7 @@ Tempat untuk menanyakan dan konsultasi seputar aplikasi pegang
 
 
 
-## Pegang
+## PeGang
 
 Aplikasi pengelola data gudang yang simpel, mudah dan fleksibel. Dengan menggunakan berbagai Jenis Framework dan Library terbaik saat ini, menjadikan PeGang aplikasi yang cukup kompatibel dengan berbagai kondisi.
 
