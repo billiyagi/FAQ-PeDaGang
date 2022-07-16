@@ -32,8 +32,7 @@ link: https://pegang.gq/
 ```
 ubah sesuai **nama domain** yang digunakan.
 
-**Jika menggunakan server lokal**
-Jika kamu ingin menjalankannya dengan server lokal seperti XAMPP, ketika ingin menggunakan aplikasi pegang wajib menjalankan *PHP Development server*, caranya seperti berikut:
+**Jika menggunakan server lokal** seperti XAMPP, ketika ingin menggunakan aplikasi pegang wajib menjalankan *PHP Local Development server*, caranya seperti berikut:
 
 - Buka Terminal/CMD arahkan ke folder aplikasi PeGang
 - ketik perintah **php spark serve**
