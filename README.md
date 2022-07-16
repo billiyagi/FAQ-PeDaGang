@@ -1,9 +1,5 @@
-# FAQ-PeGang
-Tempat untuk menanyakan dan konsultasi seputar aplikasi pegang
-- Klik tab Issues lalu klik tombol **New Issue**
 
-
-## PeGang
+# Pegang
 
 Aplikasi pengelola data gudang yang simpel, mudah dan fleksibel. Dengan menggunakan berbagai Jenis Framework dan Library terbaik saat ini, menjadikan PeGang aplikasi yang cukup kompatibel dengan berbagai kondisi.
 
@@ -34,7 +30,14 @@ link: https://pegang.gq/
 ```
   app.baseURL = 'http://localhost:8080/'
 ```
-ubah sesuai **nama domain dan path folder** yang digunakan, jika menggunakan web server lokal tetap menggunakan localhost sebagai domainnya tetapi dilanjut dengan nama folder aplikasi pegang
+ubah sesuai **nama domain** yang digunakan.
+
+**Jika menggunakan server lokal**
+Jika kamu ingin menjalankannya dengan server lokal seperti XAMPP, ketika ingin menggunakan aplikasi pegang wajib menjalankan *PHP Development server*, caranya seperti berikut:
+
+- Buka Terminal/CMD arahkan ke folder aplikasi PeGang
+- ketik perintah **php spark serve**
+- Lalu buka alamat server yang ada pada layar terminal biasanya http://localhost:8080 atau http://localhost:8000
 
 **Database**
 ```
@@ -67,5 +70,4 @@ Baca di LISENSI.txt atau [Billiyagi Software License](https://pastebin.com/Mpkdj
 ## Lainnya
 
 Lihat project berbayar dan open source lainnya di -> https://billiyagi.github.io
-
 
