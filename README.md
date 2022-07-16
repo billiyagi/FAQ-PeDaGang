@@ -19,7 +19,7 @@ Aplikasi pengelola data gudang yang simpel, mudah dan fleksibel. Dengan mengguna
 
 ## Demo
 
-link: https://pegang.cf/
+link: https://pegang.gq/
 
 
 ## Instalasi dan Konfigurasi
