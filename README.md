@@ -15,13 +15,13 @@ Aplikasi pengelola data gudang yang simpel, mudah dan fleksibel. Dengan mengguna
 
 ## Demo
 
-link: https://pegang.gq/
+link: http://pedagang.gq/
 
 
 ## Instalasi dan Konfigurasi
 
 - Buat database di sistem kalian masing-masing
-- Import file db_pegang.sql ke database yang telah dibuat
+- Import file db_pedagang.sql ke database yang telah dibuat
 - cari file .env (ada di luar folder) 
 - ubah isi file .env tersebut sesuai konfigurasi masing - masing
 
@@ -41,7 +41,7 @@ ubah sesuai **nama domain** yang digunakan.
 **Database**
 ```
   database.default.hostname = localhost
-  database.default.database = pegang
+  database.default.database = pedagang
   database.default.username = root
   database.default.password = 
 ```
