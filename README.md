@@ -17,6 +17,13 @@ Aplikasi pengelola data gudang yang simpel, mudah dan fleksibel. Dengan mengguna
 
 link: http://pedagang.gq/
 
+Administrator
+username: admin
+password: 12345678
+
+Pegawai
+username: pegawai
+password: 12345678
 
 ## Instalasi dan Konfigurasi
 
