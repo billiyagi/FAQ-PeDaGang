@@ -17,11 +17,11 @@ Aplikasi pengelola data gudang yang simpel, mudah dan fleksibel. Dengan mengguna
 
 link: http://pedagang.gq/
 
-Administrator
+**Administrator**
 username: admin
 password: 12345678
 
-Pegawai
+**Pegawai**
 username: pegawai
 password: 12345678
 
